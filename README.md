@@ -10,6 +10,6 @@ The Core Pillars of Web Development :
 
 What are HTML tags?
 An HTML tag is a keyword enclosed in angle brackets: < >. Most tags have:
-* Opening tag → <tagname>
-* Closing tag → </tagname> (some tags are self-closing)
+* Opening tag → `<tagname>`
+* Closing tag → `</tagname>` (some tags are self-closing)
 * Content → what goes between opening and closing tags 
