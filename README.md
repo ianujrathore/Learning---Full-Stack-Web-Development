@@ -13,3 +13,8 @@ An HTML tag is a keyword enclosed in angle brackets: < >. Most tags have:
 * Opening tag → `<tagname>`
 * Closing tag → `</tagname>` (some tags are self-closing)
 * Content → what goes between opening and closing tags 
+
+HTML Documents 
+* All HTML documents must start with a document type declaration: `<!DOCTYPE html>`.
+* The HTML document itself begins with `<html>` and ends with `</html>`.
+* The visible part of the HTML document is between `<body>` and `</body>`.
